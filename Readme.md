@@ -1,0 +1,1 @@
+it is a project on creating a todolist or cli todolist where you can add items delete items view your list and everything you want to do inside you terminal.
